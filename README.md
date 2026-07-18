@@ -46,15 +46,29 @@ P0 需求 → P1 设计 → P2 上下文 → P3 架构 → P4 开发
 
 ```
 vibe-coding-pro-skill/
-├── SKILL.md                       # Skill 主入口（10 阶段流程总览）
-├── references/                    # 详细参考文档
+├── SKILL.md                       # Skill 主入口（中文，10 阶段流程总览）
+├── references/                    # 中文详细参考文档
 │   ├── ai-code-review.md          # AI 代码不可信输入审查清单
 │   ├── cross-service-check.md     # 跨服务一致性验证
 │   ├── document-specs.md          # 8 类交付物格式规范
 │   └── sprint-review.md           # Sprint 审验-修复循环
+├── vibe-coding-pro-skill-en/      # 🇬🇧 English version
+│   ├── SKILL.md                   # Skill entry (English)
+│   └── references/                # English reference docs
+│       ├── ai-code-review.md
+│       ├── cross-service-check.md
+│       ├── document-specs.md
+│       └── sprint-review.md
 ├── LICENSE
 └── README.md
 ```
+
+## 语言版本
+
+| 语言 | 路径 | 说明 |
+|------|------|------|
+| 中文（默认） | `SKILL.md` + `references/` | 原版，基于中文项目实战沉淀 |
+| English | `vibe-coding-pro-skill-en/` | 英文翻译版，内容与中文版一致 |
 
 ## 使用方式
 
