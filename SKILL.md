@@ -1,6 +1,8 @@
 ---
 name: vibe-coding-pro
-description: 基于 MediaForge 全栈项目实战沉淀的 Conscious Vibe Coding 研发流程指导。覆盖需求→设计→上下文→架构→开发→联调→安全→性能→部署→监控 10 阶段闭环，强化 Sprint 审验-修复循环、AI 代码不可信输入审查、跨服务一致性验证三大核心机制。当用户需要从零开始创建生产级项目、规划研发里程碑、系统性推进 vibecoding 开发时使用。核心原则：人主导架构与决策，AI 负责实现与验证，分阶段交付、每步可验收、每 Sprint 必审验。
+description: Conscious Vibe Coding 研发流程指导。覆盖需求→设计→上下文→架构→开发→联调→安全→性能→部署→监控 10 阶段闭环，强化 Sprint 审验-修复循环、AI 代码不可信输入审查、跨服务一致性验证三大核心机制。当用户需要从零开始创建生产级项目、规划研发里程碑、系统性推进 vibecoding 开发时使用。核心原则：人主导架构与决策，AI 负责实现与验证，分阶段交付、每步可验收、每 Sprint 必审验。
+metadata:
+  author: Foppa
 ---
 
 # Vibe Coding Pro · 生产级研发流程
@@ -399,4 +401,4 @@ Sprint N 完成
 
 ### 与 vibe-coding-workflow 的区别
 - vibe-coding-workflow：通用流程指导，适合快速了解方法论
-- **vibe-coding-pro（本 skill）**：基于真实生产项目沉淀，强化 Sprint 审验循环、AI 代码审查、跨服务一致性、文档规范、Fail-Fast 设计，适合生产级项目
+- **vibe-coding-pro（本 skill）**：强化 Sprint 审验循环、AI 代码审查、跨服务一致性、文档规范、Fail-Fast 设计，适合生产级项目

@@ -1,6 +1,8 @@
 ---
 name: vibe-coding-pro
-description: A Conscious Vibe Coding development workflow guide distilled from the real-world MediaForge full-stack project. Covers the complete 10-stage closed loop: Requirements → Design → Context → Architecture → Development → Integration → Security → Performance → Deployment → Monitoring. It reinforces three core mechanisms: Sprint review-fix loop, AI code untrusted-input review, and cross-service consistency verification. Use when users need to create production-grade projects from scratch, plan development milestones, or systematically advance vibecoding development. Core principle: humans lead architecture and decisions, AI handles implementation and verification; deliver in stages, every step verifiable, every Sprint must be reviewed.
+description: A Conscious Vibe Coding development workflow guide. Covers the complete 10-stage closed loop: Requirements → Design → Context → Architecture → Development → Integration → Security → Performance → Deployment → Monitoring. It reinforces three core mechanisms: Sprint review-fix loop, AI code untrusted-input review, and cross-service consistency verification. Use when users need to create production-grade projects from scratch, plan development milestones, or systematically advance vibecoding development. Core principle: humans lead architecture and decisions, AI handles implementation and verification; deliver in stages, every step verifiable, every Sprint must be reviewed.
+metadata:
+  author: Foppa
 ---
 
 # Vibe Coding Pro · Production-Grade Development Workflow
@@ -406,4 +408,4 @@ After every Sprint, output:
 
 ### Difference from vibe-coding-workflow
 - vibe-coding-workflow: generic workflow guidance, good for quickly understanding the methodology
-- **vibe-coding-pro (this skill)**: distilled from real production projects, reinforces Sprint review loop, AI code review, cross-service consistency, document specs, and Fail-Fast design — for production-grade projects
+- **vibe-coding-pro (this skill)**: reinforces Sprint review loop, AI code review, cross-service consistency, document specs, and Fail-Fast design — for production-grade projects

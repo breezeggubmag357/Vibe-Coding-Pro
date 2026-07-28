@@ -1,6 +1,6 @@
 # Vibe Coding Pro · 生产级研发流程 Skill
 
-> 基于 MediaForge 全栈项目实战沉淀的 **Conscious Vibe Coding** 研发流程指导。
+> **Conscious Vibe Coding** 研发流程指导。
 > 覆盖 **需求 → 设计 → 上下文 → 架构 → 开发 → 联调 → 安全 → 性能 → 部署 → 监控** 10 阶段闭环。
 
 ## 核心理念
